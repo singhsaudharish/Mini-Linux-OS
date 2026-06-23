@@ -81,7 +81,9 @@ java LoginScreen
 
 ## 📸 Screenshots
 
-_Add application screenshots here._
+<img width="1918" height="1012" alt="Screenshot 2026-06-23 202717" src="https://github.com/user-attachments/assets/c36b50c3-b696-4f8d-b0d9-4223d3969ee1" />
+
+
 
 ## 🎯 Future Improvements
 
